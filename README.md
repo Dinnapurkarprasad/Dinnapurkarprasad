@@ -59,8 +59,8 @@
 <p>Feel free to connect with me through the following platforms:</p>
 <ul>
   <li>📧 Email: <a href="mailto:prasaddinnapurkar@gmail.com">prasaddinnapurkar@gmail.com</a></li>
-  <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/prasad-dinnapurkar" target="_blank">prasad-dinnapurkar</a></li>
-  <li>💻 GitHub: <a href="https://github.com/Dinnapurkarprasad" target="_blank">github.com/Dinnapurkarprasad</a></li>
+  <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/prasad-dinnapurkar" target="_blank">Prasad Dinnapurkar</a></li>
+  <li>💻 GitHub: <a href="https://github.com/Dinnapurkarprasad" target="_blank">Prasad Dinnapurkar</a></li>
 </ul>
 <hr>
 <p>Thank you for visiting my profile! I'm always open to collaborating on exciting projects or discussing new opportunities. Let's connect!</p>
