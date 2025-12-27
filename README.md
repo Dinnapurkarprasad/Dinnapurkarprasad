@@ -60,23 +60,30 @@
 </p>
 
 
-<h2>🚧 Projects</h2>
-<div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
-  <div style="width: 30%;">
-    <h3>✈️ Travel Story Website</h3>
-    <p>Full-stack MERN application for uploading and sharing travel stories with user authentication, dynamic story management, and responsive design.</p>
-  </div>
+<h2>🚀 Projects & Experience</h2>
 
-  <div style="width: 30%;">
-    <h3>👥 Employee Management System</h3>
-    <p>Comprehensive web application for managing employee records, featuring CRUD operations, secure authentication, and an intuitive dashboard for organizational tracking.</p>
-  </div>
+<h3>🧑‍💻 Full Stack Web Developer Intern</h3>
+<p>
+<b>Storyloom Solutions Pvt. Ltd. (Storyvord Platform)</b><br/>
+• Built responsive and production-ready user interfaces by converting Figma designs into scalable components.<br/>
+• Developed and integrated RESTful APIs for authentication and core product features.<br/>
+• Worked on real-time chat and notifications and improved overall application performance in a production environment.
+</p>
 
-  <div style="width: 30%;">
-    <h3>📰 News Website</h3>
-    <p>Dynamic news aggregation platform built with React, integrating third-party APIs, implementing category-based filtering, and providing an interactive user experience.</p>
-  </div>
-</div>
+<h3>🎤 InterviewPrep – AI Interview Platform</h3>
+<p>
+• Built a real-time AI voice interview platform with interactive interview simulations.<br/>
+• Implemented secure authentication and session-based user workflows.<br/>
+• Generated structured interview summaries and feedback using LLM-based responses.
+</p>
+
+<h3>🏗️ Scalable Microservices-Based Social Media Backend</h3>
+<p>
+• Designed and developed independent backend microservices for authentication, posts, media, and search.<br/>
+• Implemented asynchronous communication for scalability and loose coupling.<br/>
+• Improved performance using caching and applied core backend security practices.
+</p>
+
 
 <h2>🤝 Connect with Me</h2>
 <p>Feel free to connect with me through the following platforms:</p>
