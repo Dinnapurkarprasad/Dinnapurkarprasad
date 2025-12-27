@@ -28,6 +28,8 @@
 <p>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" height="25"/>
 </p>
 
@@ -35,7 +37,17 @@
 <p>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="25"/>
+</p>
+
+<h3>AI & Generative AI</h3>
+<p>
+  <img src="https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge&logo=openai&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-6A5ACD?style=for-the-badge" height="25"/>
+  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge" height="25"/>
+  <img src="https://img.shields.io/badge/LangChain-2E7D32?style=for-the-badge" height="25"/>
+  <img src="https://img.shields.io/badge/LLM_API_Integration-4A148C?style=for-the-badge" height="25"/>
 </p>
 
 <h3>Tools & DevOps</h3>
@@ -46,6 +58,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="25"/>
 </p>
+
 
 <h2>🚧 Projects</h2>
 <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
