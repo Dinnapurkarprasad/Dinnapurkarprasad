@@ -1,5 +1,5 @@
 <h1>Hi there, Prasad Dinnapurkar! 👋</h1>
-<p>I'm a passionate final year Computer Science and Engineering student, dedicated to web development and software engineering. Actively seeking internship and job opportunities to leverage my full stack development skills and contribute to innovative tech solutions.</p>
+<p>Proficient Full Stack Software Developer with experience building scalable web applications and integrating AI-powered features. Skilled in modern frontend and backend technologies, RESTful APIs, and real-time systems. Experienced in collaborative, fast-paced environments with a strong focus on performance, usability, and continuous learning.</p>
 <h2>About Me</h2>
 <p>🎓 B.Tech graduate in Computer Science from Marathwada Institute of Technology, Chhatrapati Sambhajinagar (2025)</p>
 <p>💻 Full Stack Web Developer with hands-on experience building real-world web applications and working on production-level products</p>
