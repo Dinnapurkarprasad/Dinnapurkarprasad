@@ -6,7 +6,6 @@
 <p>🤖 Experienced in integrating AI-powered features into web applications to solve practical problems</p>
 <p>🛠 Comfortable working across frontend and backend, from designing user experiences to implementing scalable APIs</p>
 <p>🚀 Focused on building useful, reliable products while continuously learning and improving through real projects</p>
-
 <h2>🚀 Skills</h2>
 <h3>Programming Languages</h3>
 <p>
