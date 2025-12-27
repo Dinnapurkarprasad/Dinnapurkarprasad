@@ -1,10 +1,12 @@
 <h1>Hi there, Prasad Dinnapurkar! 👋</h1>
 <p>I'm a passionate final year Computer Science and Engineering student, dedicated to web development and software engineering. Actively seeking internship and job opportunities to leverage my full stack development skills and contribute to innovative tech solutions.</p>
 <h2>About Me</h2>
-<p>🎓 Final Year B.Tech Student at Marathwada Institute of Technology, Sambhajinagar, Maharashtra (Expected Graduation: 2025)</p>
-<p>💻 Passionate Full Stack Web Developer specializing in MERN stack technologies</p>
-<p>🌐 Enthusiastic learner always eager to explore cutting-edge technologies in Computer Science</p>
-<p>🚀 Driven to develop innovative projects that create meaningful impact on daily life</p>
+<p>🎓 B.Tech graduate in Computer Science from Marathwada Institute of Technology, Chhatrapati Sambhajinagar (2025)</p>
+<p>💻 Full Stack Web Developer with hands-on experience building real-world web applications and working on production-level products</p>
+<p>🤖 Experienced in integrating AI-powered features into web applications to solve practical problems</p>
+<p>🛠 Comfortable working across frontend and backend, from designing user experiences to implementing scalable APIs</p>
+<p>🚀 Focused on building useful, reliable products while continuously learning and improving through real projects</p>
+
 <h2>🚀 Skills</h2>
 <h3>Programming Languages</h3>
 <p>
