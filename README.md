@@ -12,7 +12,7 @@ Full-Stack Developer
 |---|---|
 | **Languages** | `TypeScript` · `JavaScript` · `Python` · `SQL` |
 | **Frontend** | `React` · `Next.js` · `Tailwind CSS` · `shadcn/ui` · `React Query` · `GSAP` |
-| **Backend** |  · `Node.js` · `Express` · `Django` · `Django REST Framework` · `FastAPI`· `Celery` · `WebRTC` |
+| **Backend** |  `Node.js` · `Express` · `Django` · `Django REST Framework` · `FastAPI`· `Celery` · `WebRTC` |
 | **AI** | `LangChain` · `LangGraph` · `RAG` · `LLM APIs` · `Claude` · `Gemini` · `Groq` |
 | **Data & Infra** | `PostgreSQL` · `MongoDB` · `Redis` · `RabbitMQ` · `Docker` · `AWS` · `Vercel` |
 
