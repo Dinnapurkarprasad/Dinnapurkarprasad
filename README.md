@@ -29,19 +29,19 @@ Full-Stack Developer
 
 ## Projects
 
-### [Verity](https://github.com/Dinnapurkarprasad)
+### [Verity](https://multi-agent-system-mb5h.vercel.app/)
 
 Multi-agent research system that turns a single topic query into an 8-section cited report.
 
 LangChain agents — Tavily search and a BeautifulSoup reader — orchestrated through an LCEL chain with a critic step that strips unsupported claims. Generates section by section across 18 LLM calls to stay under an 8,000 token-per-request ceiling. Next.js frontend with client-side polling against background jobs, incremental section rendering and progress states. FastAPI backend secured with JWT httpOnly cookies and Google OAuth 2.0.
 
-### [context-engineering-agents](https://github.com/Dinnapurkarprasad)
+### [context-engineering-agents](https://github.com/Dinnapurkarprasad/messy-vs-tidy-agent)
 
 Side-by-side comparison of a naive agent and a context-engineered one on the same task.
 
 Both agents share the same model and tools; the difference is entirely in how context is assembled, trimmed and passed between steps. Uses LangChain tools and middleware, with no retrieval layer, to isolate context engineering as the only variable.
 
-### [Microservices Social Media Backend](https://github.com/Dinnapurkarprasad)
+### [Microservices Social Media Backend](https://github.com/Dinnapurkarprasad/Nodejs-Microservices)
 
 Four independent backend services — Auth, Posts, Media and Search — built in Node.js and Express.
 
